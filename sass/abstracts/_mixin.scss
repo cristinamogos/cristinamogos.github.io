@@ -1,0 +1,41 @@
+// $xs-devices: 575px;
+// $sm-devices: 576px;
+// $md-devices: 768px;
+// $lg-devices: 992px; laptop
+// $xl-devices: 1200px; desktop
+// $xxl-devices: 1400px; desktop
+
+// Media query controller
+
+@mixin responsive($breakpoint) {
+  @if $breakpoint == xs {
+    @media only screen and (max-width: $xs-devices) {
+      @content;
+    }
+  }
+  @if $breakpoint == sm {
+    @media only screen and (min-width: $sm-devices) {
+      @content;
+    }
+  }
+  @if $breakpoint == md {
+    @media only screen and (min-width: $md-devices) {
+      @content;
+    }
+  }
+  @if $breakpoint == lg {
+    @media only screen and (min-width: $lg-devices) {
+      @content;
+    }
+  }
+  @if $breakpoint == xl {
+    @media only screen and (min-width: $xl-devices) {
+      @content;
+    }
+  }
+  @if $breakpoint == xxl {
+    @media only screen and (min-width: $xxl-devices) {
+      @content;
+    }
+  }
+}

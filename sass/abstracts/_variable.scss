@@ -1,0 +1,30 @@
+// COLORS
+$color-white: #fff;
+
+$color-black: #000;
+
+$color-grey: rgb(95, 90, 90);
+$color-grey-lighter: #d2d6d7;
+$color-grey-darker: #333;
+
+$color-green: green;
+$color-red: rgb(218, 4, 4);
+$color-violet: rgb(52, 52, 79);
+
+$color-primary: rgb(16, 12, 68);
+
+$color-beginner: #bfbf3d;
+$color-intermediate: rgb(14, 102, 14);
+$color-advanced: rgba(6, 49, 120, 1);
+
+// MEDIA QUERIES
+$xs-devices: 35.9375em; //575px
+$sm-devices: 36em; //576px
+$md-devices: 48em; //768px
+$lg-devices: 62em; //992px
+$xl-devices: 75em; //1200px
+$xxl-devices: 87.5em; //1400px
+
+//Other
+$site-box_shadow: 1rem 0.5rem 2rem rgba($color-black, 0.15);
+$site-background: rgba($color-primary, 0.03);
