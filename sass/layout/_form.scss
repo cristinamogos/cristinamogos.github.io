@@ -1,0 +1,36 @@
+.form {
+  &__input {
+    border-radius: 0.4rem;
+    border: 1px solid rgba($color-grey, 0.2);
+    border-bottom: 0.3rem solid rgba($color-grey, 0.2);
+    transition: all 0.3s;
+
+    &:focus {
+      outline: none;
+      box-shadow: 0 1rem 2rem rgba($color-black, 0.1);
+      border-bottom: 3px solid $color-green;
+    }
+
+    &:focus:invalid {
+      border-bottom: 3px solid $color-red;
+    }
+
+    &__text {
+      width: 80% !important;
+    }
+  }
+
+  &__label {
+    transition: all 0.3s;
+  }
+
+  &__input:placeholder-shown + &__label {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-4rem);
+  }
+
+  &__thankyou_message {
+    display: none;
+  }
+}

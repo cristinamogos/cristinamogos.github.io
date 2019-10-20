@@ -1,0 +1,45 @@
+.header {
+  background-image: linear-gradient(
+      to right,
+      rgba($color-black, 0.8),
+      rgba($color-primary, 0.8)
+    ),
+    url("../images/background_header.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+
+  @include responsive(xs) {
+    &__logo {
+      width: 10.5rem;
+    }
+
+    &__text-row {
+      height: 77vh;
+    }
+
+    &__more-icon {
+      transform: rotate(90deg);
+      animation: pointDown 1.6s ease infinite;
+      display: inline-block;
+      width: 108%;
+    }
+  }
+
+  @include responsive(sm) {
+    &__logo {
+      width: 11rem;
+    }
+
+    &__text-row {
+      height: 77vh;
+    }
+
+    &__more-icon {
+      transform: rotate(90deg);
+      animation: pointDown 1.6s ease infinite;
+      display: inline-block;
+      width: 108%;
+    }
+  }
+}
