@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- bootstrap files  -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+
+    <!-- css files  -->
+    <link rel="stylesheet" href="./css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    />
+
+    <!-- font awesome files -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.10.2/css/all.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.10.2/css/v4-shims.css"
+    />
+
+    <title>Cristina M. Portfolio</title>
+  </head>
+
+  <body>
+    <div class="navigation">
+      <input type="checkbox" id="nav_toggle" class="navigation__checkbox" />
+
+      <label for="nav_toggle" class="navigation__button text-center" data-toggle="tooltip" data-placement="bottom" title="Menu">
+        <span class="navigation__icon"> menu</span>
+      </label>
+
+      <div class="navigation__background"></div>
+
+      <div class="navigation__nav">
+        <ul class="navigation__list text-center pl-0">
+          <div class="navigation__item">
+            <a href="#header" class="navigation__link">Home</a>
+          </div>
+          <div class="navigation__item">
+            <a href="#web-section" class="navigation__link">Web applications </a>
+          </div>
+          <div class="navigation__item">
+            <a href="#desktop-section" class="navigation__link">Desktop applications </a>
+          </div>
+          <div class="navigation__item">
+            <a href="#photo-section" class="navigation__link">Photography</a>
+          </div>
+          <div class="navigation__item">
+            <a href="#skills-section" class="navigation__link">Skills</a>
+          </div>
+          <div class="navigation__item">
+            <a href="#contact-section" class="navigation__link">Contact</a>
+          </div>
+        </ul>
+      </div>
+    </div>
+    <!-- end of navigation  -->
+
+    <header class="header" id="header">
+      <div class="container-fluid">
+        <div class="row align-items-center no-gutters">
+          <div class="col-5">
+            <div class="header__logo-box mt-3">
+              <a href="#header" data-toggle="tooltip" data-placement="right" title="Cristina Mogos Portfolio">
+                <img src="./images/logo.png" alt="Logo" class="header__logo" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- end of row -->
+        <div
+          class="row header__text-row justify-content-center align-items-center align-content-center animated fadeInDown"
+        >
+          <div class="col-12">
+            <div class="header__text text-white text-center">
+              <h3 class="header__text-1 font-weight-bold">
+                Cristina Mogoș
+              </h3>
+              <span class="header__text-2">
+                I'm a front-end developer, in love with visual arts.
+              </span>
+            </div>
+          </div>
+            <div class="col-6 col-sm-3 col-md-3 col-lg-3 col-xl-2">
+              <div class="header__button-box text-center w-100 mt-5 pt-5">
+                <a href="./cristina_mogos_cv_ro.pdf" target="_blank"
+                  class="header__button btn btn-light font-weight-bold text-uppercase px-4 py-2" data-toggle="tooltip" data-placement="top" title="View CV">
+                  CV (RO)
+                </a>
+              </div>
+            </div>
+
+            <div class="col-6 col-sm-3 col-md-3 col-lg-3 col-xl-2">
+              <div class="header__button-box text-center w-100 mt-5 pt-5">
+                <a href="./cristina_mogos_cv_eng.pdf" target="_blank" class="header__button btn btn-light font-weight-bold text-uppercase px-4 py-2"
+                  data-toggle="tooltip" data-placement="top" title="View CV">
+                  CV (ENG)
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end of row -->
+        <div class="row justify-content-center align-items-center">
+          <div class="col-3">
+            <div class="header__more-box"  data-toggle="tooltip" data-placement="bottom" title="Scroll down">
+              <span class="header__more-icon text-white text-center">
+                &#187;
+              </span>
+            </div>
+          </div>
+        </div>
+        <!-- end of row -->
+      </div>
+      <!-- end of container  -->
+    </header>
+    <!-- end of header  -->
+
+    <section class="web" id="web-section">
+      <div class="container py-5">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-5 col-xl-5">
+            <div class="web__title text-center my-5">
+              <h1 class="web__title-heading text-uppercase font-weight-bold">
+                Web applications
+              </h1>
+              <span class="web__title-subtitle">
+                Details about my projects
+              </span>
+              <hr class="w-25" />
+            </div>
+          </div>
+        </div>
+        <!-- end of row  -->
+        <!-- only for mobile  -->
+        <div class="row justify-content-center only__mobile">
+          <div class="col-11 col-md-6 col-lg-4 bucharest__guide__mobile-item-js">
+            <div class="card web__card-mobile my-5">
+              <div class="card-img-top web__card-mobile__image-box">
+                <img src="/images/web_dev_photo_guide.jpg" alt="The Online Guide of Bucharest"
+                  class="web__card-mobile_image w-100">
+              </div>
+              <div class="card-body mb-3 d-flex flex-wrap  justify-content-center">
+                <div class="card-title web__card-mobile__title-box text-uppercase text-center align-self-begin">
+                  <h5 class="web__card-mobile__title-heading font-weight-bold pt-4 pb-3 px-sm-5">
+                    The Online Guide of Bucharest
+                  </h5>
+                </div>
+                <div class="card-text web__card-mobile__text-box text-center align-self-center">
+                  <span class="web__card-mobile__text px-3">
+                    The web application <em>"The Online Guide of Bucharest"</em> was developed to help both the tourists and the
+                    townspeople to know the city more easily and quickly.
+                  </span>
+                </div>
+                <div class="card-text web__card-mobile__text-box text-center align-self-end w-100">
+                  <hr>
+                  <span class="web__card-mobile__text">
+                    <small>
+                      <b>Made with:</b> HTML, CSS, PHP, JavaScript, MySQL, Bootstrap, jQuery, Photoshop, Chrome DevTools.
+                    </small>
+                  </span>
+                </div>
+              </div>
+              <div class="card-footer text-center text-uppercase">
+                <a href="javascript:void(0)" class="web__card-mobile__button btn btn-default guide__button__mobile-js font-weight-bold px-5 w-100" data-toggle="modal"
+                  data-target="#guideModal_mobile">
+                  <span>
+                    Site details
+                  </span>
+                </a>
+              </div>
+            </div>
+            <!-- end of card  -->
+          </div>
+          <div class="col-11 col-md-6 col-lg-4 personal__portfolio__mobile-item-js">
+            <div class="card web__card-mobile my-5">
+              <div class="card-img-top web__card-mobile__image-box">
+                <img src="/images/web_dev_photo_portfolio.jpg" alt="Web portfolio" class="web__card-mobile_image w-100">
+              </div>
+              <div class="card-body mb-3 d-flex flex-wrap justify-content-center">
+                <div class="card-title web__card-mobile__title-box text-uppercase text-center align-self-begin">
+                  <h5 class="web__card-mobile__title-heading font-weight-bold pt-4 pb-3 px-sm-5">
+                    Personal Web Portfolio
+                  </h5>
+                </div>
+                <div class="card-text web__card-mobile__text-box text-center align-self-center">
+                  <span class="web__card-mobile__text px-3">
+                    The <em>"Personal Web Portfolio"</em> is a web application of type <abbr
+                      title="Single Page Applicationn">SPA</abbr>, in which the personal projects are organised and documented.
+                  </span>
+                </div>
+                <div class="card-text web__card-mobile__text-box text-center align-self-end w-100">
+                  <hr>
+                  <span class="web__card-mobile__text">
+                    <small><b>Made with:</b> HTML, SASS, JavaScript, Bootstrap, jQuery, JSON, Photoshop, Chrome DevTools.</small>
+                  </span>
+                </div>
+              </div>
+              <div class="card-footer text-center text-uppercase">
+                <a href="javascript:void(0)" class="web__card-mobile__button btn btn-default portfolio__button__mobile-js font-weight-bold px-5 w-100" data-toggle="modal"
+                  data-target="#portfolioModal_mobile">
+                  <span>
+                    Site details
+                  </span>
+                </a>
+              </div>
+            </div>
+            <!-- end of card  -->
+          </div>
+        </div>
+        <!-- end of row  -->
+        
+        <!-- only for desktop  -->
+        <div class="row justify-content-center only__desktop">
+          <div class="col-12 col-lg-4 bucharest__guide__desktop-item-js">
+            <div class="card web__card mt-5">
+              <div class="web__card__side web__card__side-front w-100">
+                <div class="card-img-top web__card__image-box">
+                  <img src="/images/web_dev_photo_guide.jpg" alt="The Online Guide of Bucharest"
+                    class="web__card__image w-100" />
+                </div>
+                <div class="card-body d-flex flex-wrap justify-content-center align-content-between">
+                  <div class="card-title web__card__title-box">
+                    <h5 class="web__card__title-heading text-uppercase font-weight-bold text-center py-4">
+                      The Online Guide of Bucharest
+                    </h5>
+                  </div>
+                  <div class="card-text web__card__text-box text-center px-3">
+                    <span class="web__card__text">
+                      The web application <em>"The Online Guide of Bucharest"</em> was developed to help both the tourists and
+                      the townspeople to know the city more easily and quickly.
+                    </span>
+                  </div>
+                  <div class="card-text web__card-mobile__text-box text-center w-100">
+                    <hr>
+                    <span class="web__card-mobile__text">
+                      <small>
+                        <b>Made with:</b> HTML, CSS, PHP, JavaScript, MySQL, Bootstrap, jQuery, Photoshop, Chrome DevTools.
+                      </small>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <!-- end of front side  -->
+              <div class="web__card__side web__card__side-back">
+                <div class="card-body h-100">
+                  <div class="card-title h-100">
+                    <div class="row justify-content-center align-items-center h-100">
+                      <div class="col-12">
+                        <div class="web__card__button-box text-center text-uppercase">
+                          <a href="javascript:void(0)" class="btn btn-light web__card__button guide__button__desktop-js font-weight-bold px-5" data-toggle="modal"
+                            data-target="#guideModal_desktop">
+                            Site details
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- end of row  -->
+                  </div>
+                </div>
+              </div>
+              <!-- end of back side  -->
+            </div>
+            <!-- end of card  -->
+          </div>
+          <div class="col-12 col-lg-4 personal__portfolio__desktop-item-js">
+            <div class="card web__card mt-5">
+              <div class="web__card__side web__card__side-front w-100">
+                <div class="card-img-top card__image-box">
+                  <img src="/images/web_dev_photo_portfolio.jpg" alt="Web portfolio" class="web__card__image w-100" />
+                </div>
+                <div class="card-body d-flex flex-wrap justify-content-center align-content-between">
+                  <div class="card-title web__card__title-box">
+                    <h5 class="web__card__title-heading text-uppercase font-weight-bold text-center py-4">
+                      Personal Web Portfolio
+                    </h5>
+                  </div>
+                  <div class="card-text web__card__text-box text-center px-3">
+                    <span class="web__card__text">
+                      The <em>"Personal Web Portfolio"</em> is a web application of type SPA (Single Page Application), in which
+                      the personal projects are organised and documented.
+                    </span>
+                  </div>
+                  <div class="card-text web__card-mobile__text-box text-center w-100">
+                    <hr>
+                    <span class="web__card-mobile__text">
+                      <small>
+                        <b>Made with:</b> HTML, SASS, JavaScript, Bootstrap, jQuery, JSON, Photoshop, Chrome DevTools.
+                      </small>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <!-- end of front side  -->
+              <div class="web__card__side web__card__side-back">
+                <div class="card-body h-100">
+                  <div class="card-title h-100">
+                    <div class="row justify-content-center align-items-center h-100">
+                      <div class="col-12">
+                        <div class="web__card__button-box text-center text-uppercase">
+                          <a href="javascript:void(0)" class="btn btn-light web__card__button portfolio__button__desktop-js font-weight-bold px-5" data-toggle="modal"
+                            data-target="#portfolioModal_desktop">
+                            Site details
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- end of row  -->
+                  </div>
+                </div>
+              </div>
+              <!-- end of back side  -->
+            </div>
+            <!-- end of card  -->
+          </div>
+        </div>
+        <!-- end of row  -->
+      </div>
+      <!-- end of container  -->
+    </section>
+
+    <section class="desktop" id="desktop-section">
+      <div class="container py-5">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-6 col-xl-6">
+            <div class="desktop__title text-center my-5">
+              <h1
+                class="desktop__title-heading text-uppercase font-weight-bold"
+              >
+                Desktop applications
+              </h1>
+              <span class="desktop__title-subtitle">
+                Details about my projects
+              </span>
+              <hr class="w-25" />
+            </div>
+          </div>
+        </div>
+        <!-- end of row  -->
+        <div class="row justify-content-center desktop__app-js">
+        <!-- data added from desktop-app-items.js            -->
+        </div>
+        <!-- end of row  -->
+      </div>
+      <!-- end of container  -->
+    </section>
+
+    <section class="photo" id="photo-section">
+      <div class="container-fluid px-0 py-5">
+        <div class="row justify-content-center">
+          <div class="col-12 col-lg-4 col-xl-4">
+            <div class="photo__title text-center my-5">
+              <h1 class="photo__title-heading text-uppercase font-weight-bold">
+                Photography
+              </h1>
+              <hr class="w-25" />
+            </div>
+          </div>
+        </div>
+        <!-- end of row  -->
+        <div class="row">
+          <div class="col-12">
+            <!-- nav tabs -->
+            <ul class="nav nav-tabs nav-justified photo__nav mt-5">
+              <li class="nav-item photo__nav__item">
+                <a href="#bucharest" class="nav-link active photo__nav__item-name" data-toggle="tab">Bucharest</a>
+              </li>
+              <li class="nav-item photo__nav__item-box">
+                <a href="#sibiu" class="nav-link photo__nav__item-name" data-toggle="tab">Sibiu</a>
+              </li>
+              <li class="nav-item photo__nav__item-box">
+                <a href="#romania" class="nav-link photo__nav__item-name" data-toggle="tab">Romania</a>
+              </li>
+              <li class="nav-item photo__nav__item-box">
+                <a href="#seasons" class="nav-link photo__nav__item-name" data-toggle="tab">Seasons</a>
+              </li>
+              <li class="nav-item photo__nav__item-box">
+                <a href="#exhibitions" class="nav-link photo__nav__item-name" data-toggle="tab">Exhibitions</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- end of row  -->
+
+        <div class="row">
+          <div class="col-12 mt-5">
+            <nav aria-label="Navigation items">
+              <ul class="pagination justify-content-center">
+                <!-- data added from paginate.js -->
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <!-- end of row -->
+
+        <div class="row">
+          <div class="col-12">
+            <!-- tabs content -->
+            <div class="tab-content">
+              <div id="bucharest" class="container-fluid tab-pane active">
+                <div class="row justify-content-center px-md-5 no-gutters bucharest-js">
+                <!-- data added from photography-items.js            -->  
+                </div>
+                <!-- end of row  -->
+              </div>
+
+              <div id="sibiu" class="container-fluid tab-pane fade">
+                <div class="row justify-content-center px-md-5 no-gutters sibiu-js">
+                <!-- data added from photography-items.js            -->
+                </div>
+                <!-- end of row  -->
+              </div>
+
+              <div id="romania" class="container-fluid tab-pane fade">
+                <div class="row justify-content-center px-md-5 no-gutters romania-js">
+                <!-- data added from photography-items.js            -->
+                </div>
+                <!-- end of row  -->
+              </div>
+
+              <div id="seasons" class="container-fluid tab-pane fade">
+                <div class="row justify-content-center px-md-5 no-gutters seasons-js">
+                <!-- data added from photography-items.js            -->
+                </div>
+                <!-- end of row  -->
+              </div>
+
+              <div id="exhibitions" class="container-fluid tab-pane fade">
+                <div class="row justify-content-center px-md-5 no-gutters exhibitions-js">
+                <!-- data added from photography-items.js            -->
+                </div>
+                <!-- end of row  -->
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end of row  -->
+      </div>
+      <!-- end of container  -->
+    </section>
+
+    <section class="skills pb-5" id="skills-section">
+      <div class="container py-5">
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-8 col-md-5 col-lg-4 col-xl-4">
+            <div class="skills__title text-center my-5">
+              <h1 class="skills__title-heading text-uppercase font-weight-bold">
+                Skills
+              </h1>
+              <hr class="w-25" />
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-11">
+            <div id="accordion" class="mt-5">
+              <div class="row">
+              <div class="col-md-6 col-lg-6">
+                <div class="card text-center">
+                  <div class="card-header card__header">
+                    <a href="#collapse--1" class="card-link collapsed accordion__name" data-toggle="collapse" aria-expanded="false">
+                      <div class="row no-gutters">
+                        <div class="col-11 text-left">Software Development</div>
+                        <div class="col-1">
+                          <span class="text-right">
+                            &#8628;
+                          </span>
+                        </div>
+                      </div>
+                      </a>
+                  </div>
+                  <div id="collapse--1" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <div class="row justify-content-center">
+                        <div class="col-11">
+                          <div class="card mb-1">
+                            <div class="card-header">
+                              <a class="card-link collapsed accordion__name text-primary" data-toggle="collapse" href="#collapseOne">
+                                <div class="row no-gutters">
+                                  <div class="col-11 text-left"><small>Front-end</small></div>
+                                  <div class="col-1">
+                                    <span class="text-right text-danger">
+                                      <i class="fas fa-sort-down"></i>
+                                    </span>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div id="collapseOne" class="collapse" data-parent="#collapse--1">
+                              <div class="card-body">
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-2 pb-3 font-weight-bold">HTML5</h5>
+                                  <div class="line intermediate-advanced animated fadeIn">intermediate - advanced</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">CSS3</h5>
+                                  <div class="line intermediate-advanced animated fadeIn">intermediate - advanced</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Bootstrap4</h5>
+                                  <div class="line intermediate-advanced animated fadeIn">intermediate - advanced</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">SASS</h5>
+                                  <div class="line intermediate animated fadeIn">intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">JavaScript</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">jQuery</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">AJAX</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">JSON</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Angular</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="card mb-1">
+                            <div class="card-header">
+                              <a class="card-link collapsed accordion__name text-primary" data-toggle="collapse" href="#collapseTwo">
+                                <div class="row no-gutters">
+                                  <div class="col-11 text-left"><small>Back-end</small></div>
+                                  <div class="col-1">
+                                    <span class="text-right text-danger">
+                                      <i class="fas fa-sort-down"></i>
+                                    </span>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div id="collapseTwo" class="collapse" data-parent="#collapse--1">
+                              <div class="card-body">
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">NODE.js</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">NPM</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">PHP</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Symfony 4</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Composer</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="card mb-1">
+                            <div class="card-header">
+                              <a class="card-link collapsed accordion__name text-primary" data-toggle="collapse" href="#collapseThree">
+                                <div class="row no-gutters">
+                                  <div class="col-11 text-left"><small>Database</small></div>
+                                  <div class="col-1">
+                                    <span class="text-right text-danger">
+                                      <i class="fas fa-sort-down"></i>
+                                    </span>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div id="collapseThree" class="collapse" data-parent="#collapse--1">
+                              <div class="card-body">
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">SQL</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">MySQL</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">SQLite</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="card mb-1">
+                            <div class="card-header">
+                              <a class="card-link collapsed accordion__name text-primary" data-toggle="collapse" href="#collapseFour">
+                                <div class="row no-gutters">
+                                  <div class="col-11 text-left"><small>Other Languages</small></div>
+                                  <div class="col-1">
+                                    <span class="text-right text-danger">
+                                      <i class="fas fa-sort-down"></i>
+                                    </span>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div id="collapseFour" class="collapse" data-parent="#collapse--1">
+                              <div class="card-body">
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">JAVA</h5>
+                                  <div class="line beginner-indeterminate animated fadeIn">beginner - intermediate</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">C#</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                                <div class="col-12">
+                                  <h5 class="accordion__element pt-4 pb-3 font-weight-bold">C++</h5>
+                                  <div class="line beginner animated fadeIn">beginner</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="card text-center">
+                  <div class="card-header card__header">
+                    <a href="#collapse--2" class="card-link collapsed accordion__name" data-toggle="collapse" aria-expanded="false">
+                      <div class="row no-gutters">
+                        <div class="col-11 text-left">IDE</div>
+                        <div class="col-1">
+                          <span class="text-right">
+                            &#8628;
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div id="collapse--2" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <div class="row justify-content-center">
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-2 pb-3 font-weight-bold">Visual Studio</h5>
+                          <div class="line advanced animated fadeIn">advanced</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Eclipse</h5>
+                          <div class="line intermediate animated fadeIn">intermediate</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">NetBeans</h5>
+                          <div class="line beginner animated fadeIn">beginner</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="card text-center">
+                  <div class="card-header card__header">
+                    <a href="#collapse--3" class="card-link collapsed accordion__name" data-toggle="collapse" aria-expanded="false">
+                      <div class="row no-gutters">
+                        <div class="col-11 text-left">Text Editors</div>
+                        <div class="col-1">
+                          <span class="text-right">
+                            &#8628;
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div id="collapse--3" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <div class="row justify-content-center">
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-2 pb-3 font-weight-bold">Visual Studio Code</h5>
+                          <div class="line advanced animated fadeIn">advanced</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Sublime Text</h5>
+                          <div class="line intermediate animated fadeIn">intermediate</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Notepad++</h5>
+                          <div class="line intermediate animated fadeIn">intermediate</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">EMMET (plug-in)</h5>
+                          <div class="line intermediate-advanced animated fadeIn">intermediate - advanced</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6 col-lg-6">
+                <div class="card text-center">
+                  <div class="card-header card__header">
+                    <a href="#collapse--4" class="card-link collapsed accordion__name" data-toggle="collapse" aria-expanded="false">
+                      <div class="row no-gutters">
+                        <div class="col-11 text-left">Version control</div>
+                        <div class="col-1">
+                          <span class="text-right">
+                            &#8628;
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div id="collapse--4" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <div class="row justify-content-center">
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-2 pb-3 font-weight-bold">BitBucket with SourceTree</h5>
+                          <div class="line intermediate animated fadeIn">intermediate</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">GitHub with VS Code</h5>
+                          <div class="line intermediate animated fadeIn">intermediate</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="card text-center">
+                  <div class="card-header card__header">
+                    <a href="#collapse--5" class="card-link collapsed accordion__name" data-toggle="collapse" aria-expanded="false">
+                      <div class="row no-gutters">
+                        <div class="col-11 text-left">Graphic Design</div>
+                        <div class="col-1">
+                          <span class="text-right">
+                            &#8628;
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div id="collapse--5" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <div class="row justify-content-center">
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-2 pb-3 font-weight-bold">Adobe Photoshop</h5>
+                          <div class="line advanced animated fadeIn">advanced</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Adobe Illustrator</h5>
+                          <div class="line beginner animated fadeIn">beginner</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Corel Draw</h5>
+                          <div class="line beginner animated fadeIn">beginner</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="card text-center">
+                  <div class="card-header card__header">
+                    <a href="#collapse--6" class="card-link collapsed accordion__name" data-toggle="collapse" aria-expanded="false">
+                      <div class="row no-gutters">
+                        <div class="col-11 text-left">Languages</div>
+                        <div class="col-1">
+                          <span class="text-right">
+                            &#8628;
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div id="collapse--6" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <div class="row justify-content-center">
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-2 pb-3 font-weight-bold">English</h5>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Speaking</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Advanced">Reading</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Intermediate">Writing</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Advanced">Understanding</span>
+                          <div class="line intermediate animated fadeIn mt-3">intermediate</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">Spanish</h5>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Speaking</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Intermediate">Reading</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Writing</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Advanced">Understanding</span>
+                          <div class="line beginner-indeterminate animated fadeIn mt-3">beginner - intermediate</div>
+                        </div>
+                        <div class="col-10">
+                          <h5 class="accordion__element pt-4 pb-3 font-weight-bold">French</h5>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Speaking</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Reading</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Writing</span>
+                          <span class="m-3 text-primary text-uppercase font-weight-bold" data-toggle="tooltip" data-placement="top" title="Beginner">Understanding</span>
+                          <div class="line beginner animated fadeIn mt-3">beginner</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact" id="contact-section">
+      <div class="container py-5">
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-10 col-md-6 col-lg-4 col-xl-4">
+            <div class="contact__title text-center my-5">
+              <h1
+                class="contact__title-heading text-uppercase font-weight-bold"
+              >
+                Contact me
+              </h1>
+              <span class="contact__title-subtitle">
+                Let's get in touch
+              </span>
+              <hr class="w-25"/>
+            </div>
+          </div>
+        </div>
+        <!-- end of row  -->
+        <div class="row justify-content-center align-content-center">
+          <div class="col-8 offset-1 col-sm-6 col-md-4 offset-md-0 col-lg-4 text-center text-md-left">
+            <div class="contact__list my-5 pt-2">
+              <div class="row no-gutters">
+                <div class="col-2">
+                  <div class="contact__list__item-icon">
+                    <i class="fas fa-map-marker-alt"></i>
+                  </div>
+                </div>
+                <div class="col-8">
+                  <div class="contact__list__item pb-5">
+                    Bucharest, RO
+                  </div>
+                </div>
+              </div>
+              <!-- end of row  -->
+              <div class="row no-gutters">
+                <div class="col-2">
+                  <div class="contact__list__item-icon">
+                    <i class="header__icon fab fa-linkedin"></i>
+                  </div>
+                </div>
+                <div class="col-8">
+                  <div class="contact__list__item pb-5"><a href="https://www.linkedin.com/in/cristina-mogos" target="_blank" title="LinkedIn">LinkedIn</a></div>
+                </div>
+              </div>
+              <!-- end of row  -->
+              <div class="row no-gutters">
+                <div class="col-2">
+                  <div class="contact__list__item-icon">
+                    <i class="fas fa-envelope-open-text"></i>
+                  </div>
+                </div>
+                <div class="col-8 pb-5">
+                  <div class="contact__list__item-email"><a href="javascript:void(0)" onclick="return false;" title="Personal email">Email</a></div>
+                </div>
+              </div>
+              <!-- end of row  -->
+              <div class="row no-gutters">
+                <div class="col-2">
+                  <div class="contact__list__item-icon">
+                    <i class="header__icon fab fa-git"></i>
+                  </div>
+                </div>
+                <div class="col-8">
+                  <div class="contact__list__item pb-5"><a href="https://github.com/cristinamogos" target="_blank" title="GitHub">GitHub</a></div>
+                </div>
+              </div>
+              <!-- end of row  -->
+              <div class="row no-gutters">
+                <div class="col-2">
+                  <div class="contact__list__item-icon">
+                    <i class="header__icon fab fa-codepen"></i>
+                  </div>
+                </div>
+                <div class="col-8">
+                  <div class="contact__list__item pb-2"><a href="https://codepen.io/cristina_mogos" target="_blank" title="CodePen">CodePen</a></div>
+                </div>
+              </div>
+              <!-- end of row  -->
+            </div>
+          </div>
+
+          <div class="col-11 col-md-8 col-lg-7">
+            <div class="contact__form mt-5 ml-md-5">
+              <form action="https://script.google.com/macros/s/AKfycbxYyqb7ctgeU8WcnJ7avvL_R3S7PPeWLlzMt04A/exec" method="POST" class="form gform" id="gform">
+                <div class="form-group form__group">
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text" id="user__icon">
+                        <i class="far fa-user"></i>
+                      </span>
+                    </div>
+                    <input type="text" class="form-control form__input form__input__text d-block p-3" placeholder="Name" id="name" name="name" aria-describedby="user__icon" required>
+                    <label for="name" class="form__label d-block font-weight-bold mx-5 mt-2 px-2">Name</label>
+                  </div>
+                </div>
+                <div class="form-group form__group mb-3">
+                  <textarea class="form-control form__input d-block p-3 w-100 text-dark" placeholder="&#9998; Your message..." id="message" name="message" rows="3" required></textarea>
+                  <label for="message" class="form__label d-block font-weight-bold m-3">Your message...</label>
+                </div>
+                <div class="form__button-box text-center">
+                  <button type="submit" class="btn btn-primary form__button mt-3 text-white">Send message!</button>
+                </div>
+                <div class="form__thankyou_message text-center">
+                  <span>Thank you for contacting me! I will get back to you soon!</span>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <!-- end of row  -->
+      </div>
+    </section>
+    <footer>
+      <div class="container-fluid py-3">
+        <div class="row no-gutters justify-content-center">
+          <div class="col-12">
+            <div class="footer__text-box py-4 text-center">
+              <span class="footer__text text-white">
+                Copyright &copy; 2022 by Cristina M. All rights reserved.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+<!-- JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.js" 
+      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+      crossorigin="anonymous"></script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    >
+    </script>
+
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    >
+    </script>
+
+    <script src="js/script.js"></script>
+
+    <script src="js/paginate.js"></script>
+
+    <script src="js/web-app-items.js"></script>
+
+    <script src="js/desktop-app-items.js"></script>
+
+    <script src="js/photography-items.js"></script>
+
+    <!-- Submit the Form to Google Using "AJAX" -->
+    <script data-cfasync="false" type="text/javascript" src="/js/form-submission-handler.js"></script>
+    <!-- END -->
+  </body>
+</html>
