@@ -1,0 +1,168 @@
+.web {
+  background-color: $site-background;
+
+  .modal {
+    z-index: 2001;
+
+    .transcript__text-section-box {
+      cursor: pointer;
+      outline: none;
+
+      :focus,
+      :active {
+        outline: none;
+      }
+    }
+
+    .transcript__text-section-box__subelements {
+      cursor: pointer;
+      outline: none;
+
+      :focus,
+      :active {
+        outline: none;
+      }
+    }
+  }
+
+  .only__desktop {
+    display: none;
+  }
+
+  &__card-mobile {
+    .card-body {
+      height: 32rem;
+    }
+  }
+
+  @include responsive(lg) {
+    .only__desktop {
+      display: flex;
+    }
+
+    .only__mobile {
+      display: none;
+    }
+
+    &__card {
+      .card-body {
+        height: 36rem;
+      }
+    }
+  }
+
+  @include responsive(xl) {
+    &__card {
+      .card-body {
+        height: 31rem;
+      }
+    }
+  }
+}
+
+.desktop {
+  .modal {
+    z-index: 2001;
+
+    .transcript__text-section-box {
+      cursor: pointer;
+      outline: none;
+
+      :focus,
+      :active {
+        outline: none;
+      }
+    }
+  }
+
+  @include responsive(md) {
+    &__card__body {
+      height: 35rem;
+    }
+  }
+
+  @include responsive(lg) {
+    &__card__body {
+      height: 36rem;
+    }
+  }
+
+  @include responsive(xl) {
+    &__card__body {
+      height: 34rem;
+    }
+  }
+}
+
+.photo {
+  background-color: $site-background;
+
+  &__box {
+    .box__content__btn {
+      border-radius: 0;
+    }
+
+    @include responsive(xs) {
+      .only__desktop {
+        display: none;
+      }
+    }
+
+    @include responsive(sm) {
+      .only__desktop {
+        display: none;
+      }
+    }
+
+    @include responsive(md) {
+      .only__desktop {
+        display: none;
+      }
+    }
+
+    @include responsive(lg) {
+      .only__desktop {
+        display: flex;
+      }
+    }
+  }
+  .modal {
+    z-index: 2001;
+  }
+
+  @include responsive(lg) {
+    &__card {
+      .only__mobile {
+        display: none;
+      }
+    }
+  }
+}
+
+.skills {
+  .card {
+    &__header {
+      background-color: $color-violet;
+    }
+  }
+}
+
+.contact {
+  background-color: rgba($color-primary, 0.1);
+
+  .form {
+    &__button {
+      border-radius: 7px;
+    }
+  }
+
+  &__list {
+    @include responsive(xs) {
+      border-right: none;
+    }
+
+    @include responsive(md) {
+      border-right: 1px solid rgba($color-grey, 0.2);
+    }
+  }
+}
