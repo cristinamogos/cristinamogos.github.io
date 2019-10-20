@@ -1,0 +1,287 @@
+[
+  {
+    "modalDesktopParent": "bucharest__guide__desktop-item-js",
+    "modalMobileParent": "bucharest__guide__mobile-item-js",
+    "titleBox": "The Online Guide of Bucharest",
+    "targetID_desktop": "guideModal_desktop",
+    "targetID_mobile": "guideModal_mobile",
+    "videoID": "guide__video",
+    "videoSource": "video/online_guide.mp4",
+    "transcriptContainer": "modal__transcript__text_guide-js",
+    "transcriptElements": [
+      {
+        "dataTime": "0.0",
+        "subElements": [],
+        "dataTarget": "guide-element--1",
+        "title": "Home page<br/>(Pagina de start)",
+        "text": "<b>The Home Page</b> is the cover of the web application, with an introductory role, the page presents the profile of the website and guides the user to other pages of the application.<br/>The page is divided in seven sections:<br/>- <b>The story of the city</b>, that contains a presentation of the startings of the Bucharest, together  with details about four of the city's landmarks, like <b>Ateneul Roman</b>, <b>Palatul CEC</b>, <b>Parcul Herastrau</b> and <b>Hotelul Intercontinental</b>,<br/>- <b>Historic dates</b>, that contains a short presentation of four of the most important historic events of the city,<br/>- <b>Free time</b>, <b>Education</b>, <b>Shopping</b> and <b>Transport</b>, that contains references to some pages of the website, like <b>Parks</b>, <b>Restaurants</b>, etc.,<br/>- <b>Contact</b>, located at the end of the page, this section of the Home Page urges the user to leave a feedback with his opinion about the website."
+      },
+
+      {
+        "dataTime": "42.0",
+        "subElements": [],
+        "dataTarget": "guide-element--2",
+        "title": "Menu<br/>(Meniu)",
+        "text": "The application menu becomes visible when the user clicks the button situated on the top-left of the screen.<br/>The menu contains the website pages, organized by domains, being composed of:<br/>- Home Page<br />- Sightseeing: Embassies, Travel agencies, Hotels, Hostels;<br />- Health: Hospitals, Clinics, Pharmacies;<br />- Education/Culture: Universities, High Schools, Libraries, Bookstores, Theaters, Museums;<br />- Free time: Parks, Cinemas, Restaurants, Tea/Coffee Shops, Confectionaries/Patisseries, Clubs/Pubs;<br />- Shopping: Malls, Supermarkets, Banks, Markets;<br />- Transport: RATB, Metrou Stations, TAXI Companies, Railway/Bus stations, Airports;<br />- Useful: State institutions, Radio/TV, Churches, Cemeteries."
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--3",
+        "title": "Sightseeing<br />(Turistic)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "60.0",
+            "titleElement": "Embassies<br />(Ambasade)"
+          },
+          {
+            "timeElement": "133.0",
+            "titleElement": "Travel agencies<br />(Agenții de turism)"
+          },
+          {
+            "timeElement": "173.0",
+            "titleElement": "Hotels<br />(Hoteluri)"
+          },
+          {
+            "timeElement": "228.0",
+            "titleElement": "Hostels<br />(Hosteluri)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--4",
+        "title": "Health<br />(Sănătate)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "277.0",
+            "titleElement": "Hospitals<br />(Spitale)"
+          },
+          {
+            "timeElement": "422.0",
+            "titleElement": "Clinics<br />(Clinici)"
+          },
+          {
+            "timeElement": "459.0",
+            "titleElement": "Pharmacies<br />(Farmacii)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--5",
+        "title": "Education/Culture<br />(Educație/Cultură)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "486.0",
+            "titleElement": "Universities<br />(Universități)"
+          },
+          {
+            "timeElement": "543.0",
+            "titleElement": "High Schools<br />(Licee)"
+          },
+          {
+            "timeElement": "573.0",
+            "titleElement": "Libraries<br />(Biblioteci)"
+          },
+
+          {
+            "timeElement": "602.0",
+            "titleElement": "Bookstores<br />(Librării)"
+          },
+
+          {
+            "timeElement": "624.0",
+            "titleElement": "Theaters<br />(Teatre)"
+          },
+
+          {
+            "timeElement": "659.0",
+            "titleElement": "Museums<br />(Muzee)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--6",
+        "title": "Free time<br />(Timp liber)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "689.0",
+            "titleElement": "Parks<br />(Parcuri)"
+          },
+          {
+            "timeElement": "721.0",
+            "titleElement": "Cinemas<br />(Cinematografe)"
+          },
+          {
+            "timeElement": "746.0",
+            "titleElement": "Restaurants<br />(Restaurante)"
+          },
+          {
+            "timeElement": "771.0",
+            "titleElement": "Tea/Coffee Shops<br />(Ceainării/Cafenele)"
+          },
+          {
+            "timeElement": "790.0",
+            "titleElement": "Confectionaries/Patisseries<br />(Cofetării/Patiserii)"
+          },
+          {
+            "timeElement": "820.0",
+            "titleElement": "Clubs/Pubs<br />(Cluburi/Pub-uri)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--7",
+        "title": "Shopping<br />(Cumpărături)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "861.0",
+            "titleElement": "Malls<br />(Mall-uri)"
+          },
+          {
+            "timeElement": "882.0",
+            "titleElement": "Supermarkets<br />(Supermarket-uri)"
+          },
+          {
+            "timeElement": "919.0",
+            "titleElement": "Banks<br />(Bănci)"
+          },
+          {
+            "timeElement": "934.0",
+            "titleElement": "Markets<br />(Piețe)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--8",
+        "title": "Transport<br />(Transport)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "979.0",
+            "titleElement": "RATB"
+          },
+          {
+            "timeElement": "1002.0",
+            "titleElement": "TAXI Companies<br />(Companii de TAXI)"
+          },
+          {
+            "timeElement": "1020.0",
+            "titleElement": "Railway/Bus stations<br />(Gări/Autogări)"
+          },
+          {
+            "timeElement": "1063.0",
+            "titleElement": "Airports<br />(Aeroporturi)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "",
+        "dataTarget": "guide-element--9",
+        "title": "Useful<br />(Utile)",
+        "text": "",
+        "subElements": [
+          {
+            "timeElement": "1086.0",
+            "titleElement": "State institutions<br />(Instituții de stat)"
+          },
+          {
+            "timeElement": "1114.0",
+            "titleElement": "Radio/TV<br />(Radio/TV)"
+          },
+          {
+            "timeElement": "1132.0",
+            "titleElement": "Churches<br />(Biserici) "
+          },
+          {
+            "timeElement": "1161.0",
+            "titleElement": "Cemeteries<br />(Cimitire)"
+          }
+        ]
+      },
+
+      {
+        "dataTime": "1184.0",
+        "subElements": [],
+        "dataTarget": "guide-element--10",
+        "title": "Search<br />(Caută)",
+        "text": ""
+      }
+    ]
+  },
+
+  {
+    "modalDesktopParent": "personal__portfolio__desktop-item-js",
+    "modalMobileParent": "personal__portfolio__mobile-item-js",
+    "titleBox": "Personal Web Portfolio",
+    "targetID_desktop": "portfolioModal_desktop",
+    "targetID_mobile": "portfolioModal_mobile",
+    "videoID": "portfolio__video",
+    "videoSource": "video/web_portfolio.mp4",
+    "transcriptContainer": "modal__transcript__text_portfolio-js",
+    "transcriptElements": [
+      {
+        "dataTime": "0.0",
+        "subElements": [],
+        "dataTarget": "",
+        "title": "Home",
+        "text": ""
+      },
+
+      {
+        "dataTime": "30.0",
+        "subElements": [],
+        "dataTarget": "",
+        "title": "Web applications",
+        "text": ""
+      },
+
+      {
+        "dataTime": "74.0",
+        "subElements": [],
+        "dataTarget": "",
+        "title": "Desktop applications",
+        "text": ""
+      },
+
+      {
+        "dataTime": "103.0",
+        "subElements": [],
+        "dataTarget": "",
+        "title": "Photography",
+        "text": ""
+      },
+
+      {
+        "dataTime": "146.0",
+        "subElements": [],
+        "dataTarget": "",
+        "title": "Skills",
+        "text": ""
+      },
+
+      {
+        "dataTime": "165.0",
+        "subElements": [],
+        "dataTarget": "",
+        "title": "Contact",
+        "text": ""
+      }
+    ]
+  }
+]

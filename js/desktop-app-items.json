@@ -1,0 +1,145 @@
+[
+  {
+    "boxParent": ".desktop__app-js",
+    "modalParent": "water__meters__management-js",
+    "boxImage": "./images/water_meter.jpg",
+    "boxButton": "button__water__meters-js",
+    "boxTitle": "Water Meters Management",
+    "boxDesc": "The application deals with keeping the records of the water meter indexes. It stores in a database (SQLite) the indexes read monthly. The user can view the consumption from one month to the next, but also the annual consumption, viewed in a graph. The application was developed in JavaFX.",
+    "targetID": "waterMeterModal",
+    "videoID": "water__management-video",
+    "coverVideo": "./images/water_meters_cover.jpg",
+    "linkVideo": "video/water_management.mp4",
+    "transcriptTextContainer": "transcript__text__water__meters_management-js",
+    "transcriptElements": [
+      {
+        "dataTime": "0.0",
+        "dataTarget": "water__management-element--1",
+        "sectionTitle": "Home window<br />(Pagina de start)",
+        "sectionText": "At the opening of the application, the user is greeted by the 'Home window'. This window contains the entry button."
+      },
+      {
+        "dataTime": "8.0",
+        "dataTarget": "water__management-element--2",
+        "sectionTitle": "Water meters situation<br />(Situație apometre)",
+        "sectionText": "In the 'Water meters situation' window, the user can see a list of indexes, depending on the year and the type of water selected. Once the list is displayed, if the user selects a particular row, it can change the information."
+      },
+      {
+        "dataTime": "27.0",
+        "dataTarget": "water__management-element--3",
+        "sectionTitle": "Add index<br />(Adăugare index)",
+        "sectionText": "With the fields present in the 'Add index' window, the user can add new indexes to the database. It must enter: the type of water, the year, the month and the indexes read from each room, all fields being mandatory.<br />In case there are blank fields, the user will be warned. The new data will be added in the database only after all the fields has been completed."
+      },
+      {
+        "dataTime": "41.0",
+        "dataTarget": "water__management-element--4",
+        "sectionTitle": "Water consumption<br />(Consum apă)",
+        "sectionText": "In the 'Water consumption' window, the user can see the water consumption in two ways, in the form of a table, selecting the year and the type of water, and in the form of a graph.<br />To view the data in the form of a graph, the user must select the year, the type of water and the room. The graph displayed is a comparison of the indexes of the selected year and those of the previous year, to see the difference in consumption."
+      },
+      {
+        "dataTime": "55.0",
+        "dataTarget": "water__management-element--5",
+        "sectionTitle": "Total consumption<br />(Total consum)",
+        "sectionText": "In the 'Total consumption' window, the user can see, depending on the year and the type of water selected, the total water consumption, per month."
+      },
+      {
+        "dataTime": "65.0",
+        "dataTarget": "water__management-element--6",
+        "sectionTitle": "Import/Export<br/>(Importă/Exportă)",
+        "sectionText": "Within the application, the user can import data into the database of the application, from an external file. For this, the user must choose the file to import, to choose whether it contains indexes or data on consumption and the type of water. When the 'Save data' button is clicked, the information in the file is saved in the database.<br />Also, the user can export the data already present in the database. To do this, the user must click on the 'Export data' tab, located at the top of the 'Import/Export' window. To export the data, the user must select the data type - 'Index/Consumption', the water type - 'Hot/Cold' and the year of the data."
+      }
+    ]
+  },
+
+  {
+    "boxParent": ".desktop__app-js",
+    "modalParent": "virtual__library-js",
+    "boxImage": "./images/virtual_library.jpg",
+    "boxButton": "button__virtual__library-js",
+    "boxTitle": "Virtual library",
+    "boxDesc": "The application was created for the people who has medium/large sized personal library, and they want to keep track of the books already purchased. The application was originally created in C#, and later developed in JavaFX.",
+    "targetID": "virtualLibraryModal",
+    "videoID": "virtual__library-video",
+    "coverVideo": "./images/virtual_library_cover.jpg",
+    "linkVideo": "video/virtual_library.mp4",
+    "transcriptTextContainer": "transcript__text__virtual_library_management-js",
+    "transcriptElements": [
+      {
+        "dataTime": "0.0",
+        "dataTarget": "virtual__library-element--1",
+        "sectionTitle": "Home window<br />(Pagina de start)",
+        "sectionText": "The 'Home window' contains two buttons, one for authentication and one for creating a new account, the application can't be used if the user does not have an account."
+      },
+      {
+        "dataTime": "6.0",
+        "dataTarget": "virtual__library-element--2",
+        "sectionTitle": "Create new account<br />(Creare cont nou)",
+        "sectionText": "To create a new account, the user will have to enter a name and a password, if the name is already used, it will be alerted."
+      },
+      {
+        "dataTime": "31.0",
+        "dataTarget": "virtual__library-element--3",
+        "sectionTitle": "Login<br />(Autentificare)",
+        "sectionText": "In order to enter the application, the user will have to enter, in the fields present in the 'Login' window, the name and the password, chosen when he created his account within the application. If this name is not associated with the password, the user will be warned that the data is incorrect."
+      },
+      {
+        "dataTime": "40.0",
+        "dataTarget": "virtual__library-element--5",
+        "sectionTitle": "Adding a new book<br />(Introducere carte nouă)",
+        "sectionText": "In the 'New Book' window, the user can enter a new book in the application database. In order to add a new book, the user must complete all the fields, these being mandatory. If this does not happen, the user will be alerted."
+      },
+      {
+        "dataTime": "119.0",
+        "dataTarget": "virtual__library-element--4",
+        "sectionTitle": "The books list<br />(Listă cărți)",
+        "sectionText": "The 'Booklist' window contains the list of all the books already entered in the application. By selecting one of these books, the user can change their data. In the window are also displayed: the total number of books entered, the number of books read and the number of unread books. If the user wants to insert a new book in the list, he just has to press the 'New book' button, and the window for entering a new book will be opened.<br />Using the buttons at the bottom of the window, the user can also save the list in .txt format and delete a selected book from the list."
+      },
+      {
+        "dataTime": "159.0",
+        "dataTarget": "virtual__library-element--6",
+        "sectionTitle": "Books to buy<br/>(Cărți de cumpărat)",
+        "sectionText": "In the 'Books to buy' window, the user can see the list with which books he wants to buy in the future, can add a new book to the list, can modify/delete an already inserted book and can save the list in .txt format. If a book from the list has been purchased, it must be selected and then the user must click the 'Purchased Book' button.<br/>The user will be announced that the respective book has been moved to the list of books in the personal library, being automatically deleted from the list of books to buy."
+      }
+    ]
+  },
+
+  {
+    "boxParent": ".desktop__app-js",
+    "modalParent": "day__book_jurnal-js",
+    "boxImage": "./images/day_book_journal.jpg",
+    "boxButton": "button__day__book-js",
+    "boxTitle": "Day book journal",
+    "boxDesc": "The application deals with the simple bookkeeping of a certified self-employed worker. The application stores in a database (SQLite) the receipts and the payments documents of the certified self-employed worker. It was developed in JavaFX.",
+    "targetID": "dayBookModal",
+    "videoID": "day__book-video",
+    "coverVideo": "./images/day_book_journal_cover.jpg",
+    "linkVideo": "video/day_book_jurnal.mp4",
+    "transcriptTextContainer": "transcript__text__day__book_jurnal-js",
+    "transcriptElements": [
+      {
+        "dataTime": "0.0",
+        "dataTarget": "day__book-element--1",
+        "sectionTitle": "Home window<br />(Pagina de start)",
+        "sectionText": "In the 'Home window', the user must enter the year and the month of the data to be processed."
+      },
+      {
+        "dataTime": "9.0",
+        "dataTarget": "day__book-element--2",
+        "sectionTitle": "The documents list<br />(Listă documente)",
+        "sectionText": "In 'The Documents list' window, the user can see the list of documents already entered in that month. To modify a document, it must be selected from the list, the data being filled in automatically in the fields at the bottom of the page, and in order to save the changes the user must click on the 'Edit document ' button.<br/>Also in this window the user can delete a document from the list, save the list in .txt format and close/modify the month."
+      },
+      {
+        "dataTime": "29.0",
+        "dataTarget": "day__book-element--3",
+        "sectionTitle": "Adding a new document<br />(Introducere document nou)",
+        "sectionText": "In the 'New Document' window, the user can add a new document to the list of documents of the chosen month.<br/>In order to be able to successfully add the document, the user must complete all the fields, otherwise, it will be warned that the document could not be added."
+      },
+      {
+        "dataTime": "91.0",
+        "dataTarget": "day__book-element--4",
+        "sectionTitle": "Annual report<br />(Raport anual)",
+        "sectionText": "In the 'Annual Report' window are displayed the totals of the chosen year, automatically calculating the income tax, when the quota is completed by the user."
+      }
+    ]
+  }
+]
