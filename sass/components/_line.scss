@@ -1,0 +1,66 @@
+.skills {
+  .line {
+    height: 20px;
+    min-width: 100%;
+    position: relative;
+
+    &::before {
+      content: "";
+      width: 100%;
+      height: 20px;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: -2;
+      background: $color-grey-lighter;
+    }
+
+    &::after {
+      content: "";
+      background: $color-grey-darker;
+      width: 100%;
+      height: 20px;
+      transition: 1.8s;
+      display: block;
+      animation-name: animate;
+      animation-duration: 3s;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1;
+    }
+  }
+
+  .beginner::after {
+    max-width: 100%;
+    background: $color-beginner;
+  }
+
+  .beginner-indeterminate::after {
+    max-width: 100%;
+    background: linear-gradient(
+      90deg,
+      $color-beginner 0%,
+      $color-intermediate 100%
+    );
+  }
+
+  .intermediate::after {
+    max-width: 100%;
+    background: $color-intermediate;
+  }
+
+  .intermediate-advanced::after {
+    max-width: 100%;
+    background: linear-gradient(
+      90deg,
+      $color-intermediate 0%,
+      $color-advanced 100%
+    );
+  }
+
+  .advanced::after {
+    max-width: 100%;
+    background: $color-advanced;
+  }
+}

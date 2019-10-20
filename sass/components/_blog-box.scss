@@ -1,0 +1,81 @@
+.photo {
+  &__box {
+    box-shadow: $site-box_shadow;
+    position: relative;
+  }
+
+  &__card__img {
+    filter: brightness(0.5) blur(1px);
+  }
+
+  &__card-title {
+    background-color: rgba($color-grey, 0.5);
+  }
+
+  &__card__button-box {
+    background-color: rgba($color-white, 0.8);
+
+    .photo__card__button {
+      border-radius: 0;
+    }
+  }
+
+  &__box__btn {
+    top: 50%;
+    left: 50%;
+    margin-left: -50px;
+    position: absolute;
+    opacity: 0;
+    transition: all 1s;
+  }
+
+  @include responsive(xs) {
+    &__card__text-box {
+      height: 56%;
+    }
+  }
+
+  @include responsive(sm) {
+    &__card__text-box {
+      height: 71%;
+    }
+  }
+
+  @include responsive(md) {
+    &__card__text-box {
+      height: 62%;
+    }
+  }
+
+  @include responsive(lg) {
+    &__card__text-box {
+      height: 77%;
+    }
+
+    &__box .card {
+      transition: all 0.5s ease-in-out;
+    }
+
+    &__box:hover .card {
+      filter: blur(2.5px);
+      transition: all 0.5s;
+    }
+
+    &__box:hover .photo__box__btn {
+      opacity: 1;
+      z-index: 2;
+    }
+  }
+
+  @include responsive(xl) {
+    &__card__text-box {
+      height: 66%;
+    }
+  }
+
+  @include responsive(xxl) {
+    &__card__text-box {
+      height: 71%;
+    }
+  }
+}

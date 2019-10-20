@@ -1,0 +1,24 @@
+.desktop {
+  &__card {
+    box-shadow: $site-box_shadow;
+
+    &__image-box {
+      clip-path: polygon(0 0, 100% 0, 100% 78%, 0 100%);
+    }
+
+    &__body {
+      padding: 0;
+    }
+
+    &__title {
+      background-color: $color-primary;
+      padding: 1.2rem;
+      transform: skewY(-8.3deg) translateY(-33px);
+    }
+
+    &__button {
+      border-radius: 0;
+      background-color: $color-primary;
+    }
+  }
+}
