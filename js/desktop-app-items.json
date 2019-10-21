@@ -9,7 +9,7 @@
     "targetID": "waterMeterModal",
     "videoID": "water__management-video",
     "coverVideo": "./images/water_meters_cover.jpg",
-    "linkVideo": "video/water_management.mp4",
+    "linkVideo": "https://pensive-jepsen-0b0bd6.netlify.com/video/water_management.mp4",
     "transcriptTextContainer": "transcript__text__water__meters_management-js",
     "transcriptElements": [
       {
@@ -61,7 +61,7 @@
     "targetID": "virtualLibraryModal",
     "videoID": "virtual__library-video",
     "coverVideo": "./images/virtual_library_cover.jpg",
-    "linkVideo": "video/virtual_library.mp4",
+    "linkVideo": "https://pensive-jepsen-0b0bd6.netlify.com/video/virtual_library.mp4",
     "transcriptTextContainer": "transcript__text__virtual_library_management-js",
     "transcriptElements": [
       {
@@ -113,7 +113,7 @@
     "targetID": "dayBookModal",
     "videoID": "day__book-video",
     "coverVideo": "./images/day_book_journal_cover.jpg",
-    "linkVideo": "video/day_book_jurnal.mp4",
+    "linkVideo": "https://pensive-jepsen-0b0bd6.netlify.com/video/day_book_jurnal.mp4",
     "transcriptTextContainer": "transcript__text__day__book_jurnal-js",
     "transcriptElements": [
       {
