@@ -232,7 +232,7 @@
     "targetID_desktop": "portfolioModal_desktop",
     "targetID_mobile": "portfolioModal_mobile",
     "videoID": "portfolio__video",
-    "videoSource": "video/web_portfolio.mp4",
+    "videoSource": "https://pensive-jepsen-0b0bd6.netlify.com/video/web_portfolio.mp4",
     "transcriptContainer": "modal__transcript__text_portfolio-js",
     "transcriptElements": [
       {
