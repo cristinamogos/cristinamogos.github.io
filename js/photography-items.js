@@ -247,6 +247,12 @@ function renderData(data, i) {
               ${images(data, i)}
             </div>
             <!-- end of row  -->
+            <div class="row justify-content-center">
+              <a href="${
+                data[i].blogPostAddress
+              }" class="btn btn-success btn-lg m-3 text-uppercase" target="_blank">More photos in the blog post  <i class="fas fa-sign-in-alt"></i></a>
+            </div>
+            <!-- end of row  -->
           </div>
           <!-- end of modal body  -->
     
