@@ -8,6 +8,7 @@
     "boxImage": "/images/blogPhotos/villageMuseum.jpg",
     "title": "The Village Museum",
     "month": "- November 2017 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2017/11/07/muzeul-satului-o-plimbare-prin-satele-romaniei/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2017/11/header_muzeulsatului2.jpg",
       "https://cristinasworldview.files.wordpress.com/2017/11/dscn5749.jpg",
@@ -16,7 +17,6 @@
       "https://cristinasworldview.files.wordpress.com/2017/11/dscn5786.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__sunsets-js",
@@ -26,6 +26,7 @@
     "boxImage": "/images/blogPhotos/sunset.jpg",
     "title": "The Sunset in 7 Days",
     "month": "- September 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/09/21/the-sunset-in-7-ways-7-days-and-7-moods/",
     "photoLinks": [
       "https://farm4.staticflickr.com/3841/15251728535_a52f1074ba_c.jpg",
       "https://farm4.staticflickr.com/3872/15259026656_81d34a9120_c.jpg",
@@ -36,7 +37,6 @@
       "https://farm4.staticflickr.com/3853/15305653361_c42b152c02_c.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__millLake-js",
@@ -46,6 +46,7 @@
     "boxImage": "/images/blogPhotos/millLake.jpg",
     "title": "Mill Lake",
     "month": "- July 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/07/07/apus-de-soare-pe-lacul-morii/",
     "photoLinks": [
       "https://farm6.staticflickr.com/5548/14410716889_4f3d3cd902_b.jpg",
       "https://farm3.staticflickr.com/2928/14410657510_53ef80e84b_b.jpg",
@@ -54,7 +55,6 @@
       "https://farm3.staticflickr.com/2927/14597295425_e0ae30fd61_b.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__rosesIsland-js",
@@ -64,6 +64,7 @@
     "boxImage": "/images/blogPhotos/roseIsland.jpg",
     "title": "The Roses Island",
     "month": "- June 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/06/02/a-little-piece-of-heaven-the-island-of-roses-herastrau-park/",
     "photoLinks": [
       "https://farm6.staticflickr.com/5510/14306712226_313edabd80_b.jpg",
       "https://farm3.staticflickr.com/2917/14328104402_7207b813a6_b.jpg",
@@ -72,7 +73,6 @@
       "https://farm3.staticflickr.com/2899/14143223540_30f9351e87_b.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__skyTower-js",
@@ -82,6 +82,7 @@
     "boxImage": "/images/blogPhotos/skyTower.jpg",
     "title": "Sky Tower",
     "month": "- October 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/10/10/the-city-from-the-sky-tower/",
     "photoLinks": [
       "https://i0.wp.com/farm6.staticflickr.com/5538/10194606315_b526cab600_b.jpg",
       "https://i2.wp.com/farm8.staticflickr.com/7375/10195462924_72928da849_b.jpg",
@@ -90,7 +91,6 @@
       "https://i1.wp.com/farm6.staticflickr.com/5548/10195649843_f2aea079fd_b.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__airShow-js",
@@ -100,6 +100,7 @@
     "boxImage": "/images/blogPhotos/airShow.jpg",
     "title": "Bucharest Air Show",
     "month": "- July 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/07/30/bucharest-international-air-show-2013/",
     "photoLinks": [
       "https://i1.wp.com/farm4.staticflickr.com/3764/9401288428_4daeb9f0a3_o.jpg",
       "https://i2.wp.com/farm8.staticflickr.com/7343/9398525351_8414b2b85f_o.jpg",
@@ -108,7 +109,6 @@
       "https://i2.wp.com/farm6.staticflickr.com/5467/9398523001_cb10d505f2_o.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__cityAtNight-js",
@@ -118,6 +118,7 @@
     "boxImage": "/images/blogPhotos/cityAtNight.jpg",
     "title": "The City at Night",
     "month": "- July 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/07/22/the-city-at-night/",
     "photoLinks": [
       "https://i0.wp.com/farm6.staticflickr.com/5535/9338511252_c6fb369097_o.jpg",
       "https://i1.wp.com/farm4.staticflickr.com/3822/9335725083_e830e0edb7_o.jpg",
@@ -126,7 +127,6 @@
       "https://i1.wp.com/farm8.staticflickr.com/7325/9335723801_7abb37097e_o.jpg"
     ]
   },
-
   {
     "boxParent": ".bucharest-js",
     "modalParent": "bucharest__militaryCircle-js",
@@ -136,6 +136,7 @@
     "boxImage": "/images/blogPhotos/militaryCircle.jpg",
     "title": "Military Circle",
     "month": "- July 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/07/16/cercul-militar-national/",
     "photoLinks": [
       "https://i1.wp.com/farm4.staticflickr.com/3710/9299797118_046fb346e8_o.jpg",
       "https://i2.wp.com/farm6.staticflickr.com/5444/9299797546_1a0cb55fb4_o.jpg",
@@ -144,7 +145,6 @@
       "https://i1.wp.com/farm4.staticflickr.com/3827/9297014239_e7929de0e7_o.jpg"
     ]
   },
-
   {
     "boxParent": ".sibiu-js",
     "modalParent": "sibiu__sibiu2014-js",
@@ -154,6 +154,7 @@
     "boxImage": "/images/blogPhotos/sibiu2014.jpg",
     "title": "Sibiu",
     "month": "- August 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/10/16/sibiu-august-2014/",
     "photoLinks": [
       "https://farm4.staticflickr.com/3936/15550277895_ae179079ed_c.jpg",
       "https://farm6.staticflickr.com/5602/15551120012_fe014cbe27_c.jpg",
@@ -162,7 +163,6 @@
       "https://farm4.staticflickr.com/3934/15551269602_d828483429_c.jpg"
     ]
   },
-
   {
     "boxParent": ".sibiu-js",
     "modalParent": "sibiu__astra2014-js",
@@ -172,6 +172,7 @@
     "boxImage": "/images/blogPhotos/astra2014.jpg",
     "title": "Astra Museum",
     "month": "- August 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/08/16/muzeul-civilizatiei-populare-traditionale-astra/",
     "photoLinks": [
       "https://farm6.staticflickr.com/5580/14747174367_66349503fc_c.jpg",
       "https://farm4.staticflickr.com/3923/14933373202_682d7a1838_c.jpg",
@@ -180,7 +181,6 @@
       "https://farm6.staticflickr.com/5564/14747107318_5f63a305c9_c.jpg"
     ]
   },
-
   {
     "boxParent": ".sibiu-js",
     "modalParent": "sibiu__sibiu2013-js",
@@ -190,6 +190,7 @@
     "boxImage": "/images/blogPhotos/sibiu2013.jpg",
     "title": "Sibiu",
     "month": "- August 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/08/29/sibiu-2013/",
     "photoLinks": [
       "https://i0.wp.com/farm4.staticflickr.com/3779/9981937943_e9be1dc07f_b.jpg",
       "https://i0.wp.com/farm4.staticflickr.com/3769/9981820514_469804d47a_b.jpg",
@@ -198,7 +199,6 @@
       "https://i0.wp.com/farm6.staticflickr.com/5501/9621916441_786bc14a8c_o.jpg"
     ]
   },
-
   {
     "boxParent": ".sibiu-js",
     "modalParent": "sibiu__astra2013-js",
@@ -208,6 +208,7 @@
     "boxImage": "/images/blogPhotos/astra2013.jpg",
     "title": "Astra Museum",
     "month": "- August 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/09/07/muzeul-astra-sibiu-2013/",
     "photoLinks": [
       "https://i2.wp.com/farm4.staticflickr.com/3826/9695834736_362528da4d_o.jpg",
       "https://i2.wp.com/farm8.staticflickr.com/7436/9692604013_d9d668a272_o.jpg",
@@ -216,7 +217,6 @@
       "https://i2.wp.com/farm4.staticflickr.com/3731/9695835172_78917b9641_o.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__blackSea-js",
@@ -226,6 +226,7 @@
     "boxImage": "/images/blogPhotos/blackSea.jpg",
     "title": "Black Sea",
     "month": "- September 2016 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2016/09/10/marea-un-periplu-printre-mii-de-stari-neptun-2016/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2016/09/dsc_3890.jpg",
       "https://c4.staticflickr.com/8/7509/29501063371_81cf93da8c_c.jpg",
@@ -234,7 +235,6 @@
       "https://c7.staticflickr.com/9/8389/29291377590_14d3f900b8_c.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__moieciu-js",
@@ -244,6 +244,7 @@
     "boxImage": "/images/blogPhotos/moieciu.jpg",
     "title": "Moieciu",
     "month": "- August 2015 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2015/08/10/moieciu-de-sus-2015/",
     "photoLinks": [
       "https://farm1.staticflickr.com/411/20462390925_797e169e88_c.jpg",
       "https://farm1.staticflickr.com/413/19839596484_79e90ca434_c.jpg",
@@ -252,7 +253,6 @@
       "https://farm1.staticflickr.com/444/19841317263_21d0a3102d_c.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__fagarasFortress-js",
@@ -262,6 +262,7 @@
     "boxImage": "/images/blogPhotos/fagarasFortress.jpg",
     "title": "Fagaraș Fortress",
     "month": "- August 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/09/07/cetatea-fagarasului/",
     "photoLinks": [
       "https://farm6.staticflickr.com/5573/15165262555_e3fa9c3b11_c.jpg",
       "https://farm4.staticflickr.com/3837/14978678738_0bf6d720f9_c.jpg",
@@ -270,7 +271,6 @@
       "https://farm6.staticflickr.com/5596/15165288902_29ea6d5686_c.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__transfagarasan-js",
@@ -280,6 +280,7 @@
     "boxImage": "/images/blogPhotos/transfagarasan.jpg",
     "title": "Transfăgărășan",
     "month": "- August 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/08/24/transfagarasan-2014/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2014/08/15021392652_dc6a6049b7_h.jpg",
       "https://farm6.staticflickr.com/5583/14835031079_2392fafc9c_c.jpg",
@@ -288,7 +289,6 @@
       "https://farm4.staticflickr.com/3926/14835029029_56d3424392_c.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__olanesti-js",
@@ -298,6 +298,7 @@
     "boxImage": "/images/blogPhotos/olanesti.jpg",
     "title": "Olănești",
     "month": "- May 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/05/25/olanesti-un-colt-de-paradis/",
     "photoLinks": [
       "https://farm6.staticflickr.com/5474/14077449709_9a96bc1a87_b.jpg",
       "https://farm4.staticflickr.com/3809/14284273583_f510f1d41f_b.jpg",
@@ -306,7 +307,6 @@
       "https://farm6.staticflickr.com/5583/14077540327_9db1aea170_b.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__evangelicalChurch-js",
@@ -316,6 +316,7 @@
     "boxImage": "/images/blogPhotos/evangelicalChurch.jpg",
     "title": "Evangelical Church",
     "month": "- August 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/08/12/ansamblul-bisericii-evanghelice-fortificate/",
     "photoLinks": [
       "https://farm4.staticflickr.com/3912/14701797229_07b2364e96_b.jpg",
       "https://farm6.staticflickr.com/5581/14895710841_8ffce8d042_c.jpg",
@@ -324,7 +325,6 @@
       "https://farm6.staticflickr.com/5555/14701767270_9cd8ce035d_c.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__turdaSaltMine-js",
@@ -334,6 +334,7 @@
     "boxImage": "/images/blogPhotos/turdaSaltMine.jpg",
     "title": "Turda Salt Mine",
     "month": "- August 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/11/28/salina-turda/",
     "photoLinks": [
       "https://i0.wp.com/farm8.staticflickr.com/7422/11090428186_28ab437627_o.jpg",
       "https://i1.wp.com/farm6.staticflickr.com/5494/11090341045_67994ba3c1_b.jpg",
@@ -342,7 +343,6 @@
       "https://i2.wp.com/farm4.staticflickr.com/3739/11090547153_b8cbb28a65_b.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__mogosoaia-js",
@@ -352,6 +352,7 @@
     "boxImage": "/images/blogPhotos/mogosoaia.jpg",
     "title": "Mogoșoaia Palace",
     "month": "- August 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/10/25/palatul-mogosoaia/",
     "photoLinks": [
       "https://i1.wp.com/farm6.staticflickr.com/5549/10475236133_2c521c25df_o.jpg",
       "https://i1.wp.com/farm4.staticflickr.com/3678/10475214183_b2aea386ea_o.jpg",
@@ -360,7 +361,6 @@
       "https://i1.wp.com/farm4.staticflickr.com/3817/10475211013_de2b5c3340_o.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__craiovaBotanicalGarden-js",
@@ -370,6 +370,7 @@
     "boxImage": "/images/blogPhotos/craiovaBotanicalGarden.jpg",
     "title": "Craiova Botanical Garden",
     "month": "- November 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/11/10/gradina-botanica-universitara-alexandru-buia-craiova/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2013/11/10782266044_27877ae771_h.jpg",
       "https://i2.wp.com/farm4.staticflickr.com/3810/10782805363_84e1344562_o.jpg",
@@ -378,7 +379,6 @@
       "https://i2.wp.com/farm6.staticflickr.com/5549/10782409434_11534e407a_o.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__romanescuPark-js",
@@ -388,6 +388,7 @@
     "boxImage": "/images/blogPhotos/romanescu.jpg",
     "title": "Romanescu Park",
     "month": "- November 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/11/04/parcul-n-romanescu-craiova/",
     "photoLinks": [
       "https://i2.wp.com/farm4.staticflickr.com/3762/10669761745_82cebe50cd_o.jpg",
       "https://i0.wp.com/farm8.staticflickr.com/7351/10669833094_cbf26d7a8c_o.jpg",
@@ -396,7 +397,6 @@
       "https://i2.wp.com/farm3.staticflickr.com/2844/10669824324_b9629e4935_o.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__rupeaCitadel-js",
@@ -406,6 +406,7 @@
     "boxImage": "/images/blogPhotos/rupea.jpg",
     "title": "Rupea Citadel",
     "month": "- August 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/10/06/cetatea-rupea/",
     "photoLinks": [
       "https://i1.wp.com/farm3.staticflickr.com/2829/10118520074_f8b97b50b6_b.jpg",
       "https://i0.wp.com/farm6.staticflickr.com/5449/10118690233_3a8915c2a7_b.jpg",
@@ -414,7 +415,6 @@
       "https://i1.wp.com/farm6.staticflickr.com/5455/10118618816_cf8e60fb4c_b.jpg"
     ]
   },
-
   {
     "boxParent": ".romania-js",
     "modalParent": "romania__albaCarolina-js",
@@ -424,6 +424,7 @@
     "boxImage": "/images/blogPhotos/albaCarolina.jpg",
     "title": "Alba Carolina Citadel",
     "month": "- August 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/09/29/cetatea-alba-carolina/",
     "photoLinks": [
       "https://i2.wp.com/farm8.staticflickr.com/7351/9995053754_be51da9577_b.jpg",
       "https://i0.wp.com/farm8.staticflickr.com/7357/9995182703_1773d92654_b.jpg",
@@ -432,7 +433,6 @@
       "https://i1.wp.com/farm3.staticflickr.com/2859/9995561835_fbb37e63e8_b.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__winter2019-js",
@@ -442,6 +442,7 @@
     "boxImage": "/images/blogPhotos/winter2019.jpg",
     "title": "Winter",
     "month": "- January 2019 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2019/01/26/let-the-time-freeze-winter-2019/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2019/01/dscn8570-3.jpg",
       "https://cristinasworldview.files.wordpress.com/2019/01/dscn8562.jpg",
@@ -450,7 +451,6 @@
       "https://cristinasworldview.files.wordpress.com/2019/01/dscn8567.png"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__autumn2018-js",
@@ -460,6 +460,7 @@
     "boxImage": "/images/blogPhotos/autumn2018.jpg",
     "title": "Autumn",
     "month": "- November 2018 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2018/11/11/fill-your-life-with-the-colors-of-autumn/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2018/11/dscn8546.jpg",
       "https://cristinasworldview.files.wordpress.com/2018/11/dscn8471.jpg",
@@ -468,7 +469,6 @@
       "https://cristinasworldview.files.wordpress.com/2018/11/dscn8553.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__winter2018-js",
@@ -478,6 +478,7 @@
     "boxImage": "/images/blogPhotos/winter2018.jpg",
     "title": "Winter",
     "month": "- March 2018 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2018/03/25/capturing-the-winters-butterflies/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2018/03/header_iarna2.jpg",
       "https://cristinasworldview.files.wordpress.com/2018/03/dscn7578.jpg",
@@ -486,7 +487,6 @@
       "https://cristinasworldview.files.wordpress.com/2018/03/dscn7564.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__autumn2017-js",
@@ -496,6 +496,7 @@
     "boxImage": "/images/blogPhotos/autumn2017.jpg",
     "title": "Autumn",
     "month": "- November 2017 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2017/11/23/my-colorful-autumn-2017/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2017/11/header1.jpg",
       "https://cristinasworldview.files.wordpress.com/2017/11/dsc_6367.jpg",
@@ -504,7 +505,6 @@
       "https://cristinasworldview.files.wordpress.com/2017/11/dsc_6379.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__spring2017-js",
@@ -514,6 +514,7 @@
     "boxImage": "/images/blogPhotos/spring2017.jpg",
     "title": "Spring",
     "month": "- March 2017 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2017/03/22/spring-is-that-you/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2017/03/dscn9264.jpg",
       "https://cristinasworldview.files.wordpress.com/2017/03/dscn9261.jpg",
@@ -522,7 +523,6 @@
       "https://cristinasworldview.files.wordpress.com/2017/03/dscn9271.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__autumn2016-js",
@@ -532,6 +532,7 @@
     "boxImage": "/images/blogPhotos/autumn2016.jpg",
     "title": "Autumn",
     "month": "- November 2016 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2016/11/30/1287/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2016/11/dscn8520.jpg",
       "https://c2.staticflickr.com/6/5808/31325651065_24dc6e212f_z.jpg",
@@ -540,7 +541,6 @@
       "https://c8.staticflickr.com/6/5533/31325652255_a39353c18c_z.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__spring2016-js",
@@ -550,6 +550,7 @@
     "boxImage": "/images/blogPhotos/spring2016.jpg",
     "title": "Spring",
     "month": "- March 2016 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2016/03/08/first-signs-of-spring-2016-2/",
     "photoLinks": [
       "https://farm2.staticflickr.com/1669/24989260083_bdce413a9e_c.jpg",
       "https://farm2.staticflickr.com/1680/25615979085_85f2fc9fb9_c.jpg",
@@ -558,7 +559,6 @@
       "https://farm2.staticflickr.com/1532/24989259673_0e76637084_c.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__winter2015-js",
@@ -568,6 +568,7 @@
     "boxImage": "/images/blogPhotos/winter2016.jpg",
     "title": "Winter",
     "month": "- January 2016 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2016/01/05/on-a-cold-winter-morning-3/",
     "photoLinks": [
       "https://farm2.staticflickr.com/1586/23561667113_b6ffdc7f26_c.jpg",
       "https://farm2.staticflickr.com/1491/24105852571_0628914d9e_c.jpg",
@@ -576,7 +577,6 @@
       "https://farm2.staticflickr.com/1555/24162354816_5fbc1a5730_c.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__autumn2015-js",
@@ -586,6 +586,7 @@
     "boxImage": "/images/blogPhotos/autumn2015.jpg",
     "title": "Autumn",
     "month": "- October 2015 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2015/11/06/on-an-autumn-morning-2/",
     "photoLinks": [
       "https://farm1.staticflickr.com/676/22211155143_d76d4cabe5_c.jpg",
       "https://farm1.staticflickr.com/757/22806282196_782001ba19_c.jpg",
@@ -594,7 +595,6 @@
       "https://farm1.staticflickr.com/673/22413942657_0476189930_b.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__spring2015-js",
@@ -604,6 +604,7 @@
     "boxImage": "/images/blogPhotos/spring2015.jpg",
     "title": "Spring",
     "month": "- May 2015 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2015/05/15/spring-2015/",
     "photoLinks": [
       "https://c2.staticflickr.com/6/5445/17502658628_932f54826c_c.jpg",
       "https://c2.staticflickr.com/6/5329/17690449255_5a628e23e0_c.jpg",
@@ -612,7 +613,6 @@
       "https://c4.staticflickr.com/8/7704/17687975732_fdd94f7671_c.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__winter2014-js",
@@ -622,6 +622,7 @@
     "boxImage": "/images/blogPhotos/winter2014.jpg",
     "title": "Winter",
     "month": "- January 2015 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2015/01/02/winter-2014-2015/",
     "photoLinks": [
       "https://farm9.staticflickr.com/8603/16143320446_571574e893_c.jpg",
       "https://farm8.staticflickr.com/7581/16196269395_95e41c72f1_c.jpg",
@@ -630,7 +631,6 @@
       "https://farm8.staticflickr.com/7528/16168332082_0f1aeb66ae_c.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__autumn2014-js",
@@ -640,6 +640,7 @@
     "boxImage": "/images/blogPhotos/autumn2014.jpg",
     "title": "Autumn",
     "month": "- September 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/09/13/first-signs-of-autumn-tineretului-park-2014/",
     "photoLinks": [
       "https://farm4.staticflickr.com/3915/15200695056_e65d0d8f37_c.jpg",
       "https://farm6.staticflickr.com/5565/15223695195_c48f38e0e5_c.jpg",
@@ -648,7 +649,6 @@
       "https://farm6.staticflickr.com/5583/15223316132_503f39d299_c.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__spring2014-js",
@@ -658,16 +658,15 @@
     "boxImage": "/images/blogPhotos/spring2014.jpg",
     "title": "Spring",
     "month": "- April 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/04/10/spring-2014-parcul-tineretului/",
     "photoLinks": [
       "https://farm8.staticflickr.com/7299/13754642264_43407e77c8_b.jpg",
       "https://farm4.staticflickr.com/3796/13742152145_91559196cb_b.jpg",
       "https://farm8.staticflickr.com/7106/13742198693_34109d2d77_b.jpg",
       "https://farm4.staticflickr.com/3817/13829550955_cf74fc1d05_b.jpg",
       "https://farm4.staticflickr.com/3679/13829553645_881ffe6849_c.jpg"
-     
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__winter2013-js",
@@ -677,6 +676,7 @@
     "boxImage": "/images/blogPhotos/winter2013.jpg",
     "title": "Winter",
     "month": "- February 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/02/05/a-winter-night/",
     "photoLinks": [
       "https://i1.wp.com/farm3.staticflickr.com/2857/12328189373_3f1bbc6a6a_o.jpg",
       "https://i2.wp.com/farm4.staticflickr.com/3744/12328190703_81f9072f66_o.jpg",
@@ -685,7 +685,6 @@
       "https://i0.wp.com/farm3.staticflickr.com/2828/12328482954_5bf8eaec85_o.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__autumn2013-js",
@@ -695,6 +694,7 @@
     "boxImage": "/images/blogPhotos/autumn2013.jpg",
     "title": "Autumn",
     "month": "- October 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/10/30/a-little-bit-of-autumn/",
     "photoLinks": [
       "https://i2.wp.com/farm3.staticflickr.com/2858/10574692024_6bee931254_o.jpg",
       "https://i1.wp.com/farm4.staticflickr.com/3834/10539070036_efc783b47f_o.jpg",
@@ -703,7 +703,6 @@
       "https://i0.wp.com/farm4.staticflickr.com/3730/10574817703_989243dc65_o.jpg"
     ]
   },
-
   {
     "boxParent": ".seasons-js",
     "modalParent": "seasons__summer2013-js",
@@ -713,6 +712,7 @@
     "boxImage": "/images/blogPhotos/summer2013.jpg",
     "title": "Summer",
     "month": "- August 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/08/06/vara-in-parcul-alexandru-ioan-cuza/",
     "photoLinks": [
       "https://i2.wp.com/farm4.staticflickr.com/3731/9451000004_d77b8bdfa2_o.jpg",
       "https://i0.wp.com/farm3.staticflickr.com/2868/9450955638_9a8f6a6e3b_o.jpg",
@@ -721,7 +721,6 @@
       "https://i0.wp.com/farm4.staticflickr.com/3668/9448127441_44443c5525_o.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__butterflies2019-js",
@@ -731,6 +730,7 @@
     "boxImage": "/images/blogPhotos/butterflies2019.jpg",
     "title": "The colors catch wings",
     "month": "- August 2019 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2019/08/11/nascuti-aici-expozitie-de-fluturi-tropicali-vii-muzeul-antipa-2019/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2019/08/coperta-1.jpg",
       "https://cristinasworldview.files.wordpress.com/2019/08/dscn95353.jpg",
@@ -739,7 +739,6 @@
       "https://cristinasworldview.files.wordpress.com/2019/08/dscn95355.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__butterflies2018-js",
@@ -749,6 +748,7 @@
     "boxImage": "/images/blogPhotos/butterflies2018.jpg",
     "title": "The colors catch wings",
     "month": "- July 2018 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2018/08/08/fluturii-exotici-au-aterizat-la-muzeul-antipa-2018/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2018/08/header_fluturi52.jpg",
       "https://cristinasworldview.files.wordpress.com/2018/08/dscn7916.jpg",
@@ -757,7 +757,6 @@
       "https://cristinasworldview.files.wordpress.com/2018/08/dscn7890.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__butterflies2017-js",
@@ -767,6 +766,7 @@
     "boxImage": "/images/blogPhotos/butterflies2017.jpg",
     "title": "The colors catch wings",
     "month": "- June 2017 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2017/11/01/zbor-multicolor/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2017/11/header_fluturi1.jpg",
       "https://cristinasworldview.files.wordpress.com/2017/11/dsc_4494.jpg",
@@ -775,7 +775,6 @@
       "https://cristinasworldview.files.wordpress.com/2017/11/dsc_4436.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__butterflies2016-js",
@@ -785,6 +784,7 @@
     "boxImage": "/images/blogPhotos/butterflies2016.jpg",
     "title": "The colors catch wings",
     "month": "- July 2016 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2016/09/03/expozitia-de-fluturi-tropicali-culorile-prind-aripi-zbor-multicolor-la-muzeul-antipa-2016/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2016/09/dscn8378.jpg",
       "https://c1.staticflickr.com/9/8097/28787840824_1c13fe70b2_c.jpg",
@@ -793,7 +793,6 @@
       "https://c3.staticflickr.com/9/8348/29303502722_8b5a60ee5c_c.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__butterflies2015-js",
@@ -803,6 +802,7 @@
     "boxImage": "/images/blogPhotos/butterflies2015.jpg",
     "title": "The colors catch wings",
     "month": "- August 2015 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2015/08/14/expozitia-de-fluturi-tropicali-vii-culorile-prind-aripi-muzeul-grigore-antipa-2015/",
     "photoLinks": [
       "https://farm1.staticflickr.com/566/20328244350_840cd9176a_c.jpg",
       "https://farm1.staticflickr.com/564/20507406802_e90e9e2660_c.jpg",
@@ -811,7 +811,6 @@
       "https://farm1.staticflickr.com/565/20329511659_e0a714f463_c.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__moto2014-js",
@@ -821,6 +820,7 @@
     "boxImage": "/images/blogPhotos/moto.jpg",
     "title": "Legends on two wheels",
     "month": "- May 2014 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2014/05/20/legende-pe-doua-roti-expozitie-de-motociclete-de-epoca/",
     "photoLinks": [
       "https://farm8.staticflickr.com/7381/14195375631_c154a7125e_c.jpg",
       "https://farm6.staticflickr.com/5558/14195375861_794491f9f0_b.jpg",
@@ -829,7 +829,6 @@
       "https://farm3.staticflickr.com/2927/14198576204_7bd213278d_b.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__china2013-js",
@@ -839,6 +838,7 @@
     "boxImage": "/images/blogPhotos/china.jpg",
     "title": "The treasures of China",
     "month": "- May 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/05/14/expozitia-comorile-chinei/",
     "photoLinks": [
       "https://cristinasworldview.files.wordpress.com/2013/05/dscn1598.jpg",
       "https://cristinasworldview.files.wordpress.com/2013/05/dscn1594.jpg",
@@ -846,7 +846,6 @@
       "https://cristinasworldview.files.wordpress.com/2013/05/dscn1597.jpg"
     ]
   },
-
   {
     "boxParent": ".exhibitions-js",
     "modalParent": "exhibitions__butterflies2013-js",
@@ -856,6 +855,7 @@
     "boxImage": "/images/blogPhotos/butterflies2013.jpg",
     "title": "The colors catch wings",
     "month": "- May 2013 -",
+    "blogPostAddress": "https://cristinasworldview.wordpress.com/2013/05/12/expozitia-temporara-fluturi-tropicali-vii/",
     "photoLinks": [
       "https://i2.wp.com/farm8.staticflickr.com/7281/8732704332_b788a5f301.jpg",
       "https://i0.wp.com/farm8.staticflickr.com/7283/8731584129_17d77a83f9.jpg",
