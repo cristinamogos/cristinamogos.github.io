@@ -23,10 +23,10 @@
       display: block;
       animation-name: animate;
       animation-duration: 3s;
-      transition: 2s;
+      transition: width 2s;
       -webkit-animation-name: animate;
       -webkit-animation-duration: 3s;
-      -webkit-transition: all 2s ease-out;
+      -webkit-transition: width 2s;
       position: absolute;
       top: 0;
       left: 0;
