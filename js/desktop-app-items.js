@@ -128,7 +128,7 @@ function renderModal(data, i) {
                             <div class="modal__video__container">
                                 <video id="${data[i].videoID}" poster="${
     data[i].coverVideo
-  }" controls class="w-100">
+  }" controls class="w-100" playsinline>
                                 <source src="${
                                   data[i].linkVideo
                                 }" type="video/mp4" />
