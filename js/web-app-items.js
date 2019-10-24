@@ -248,7 +248,7 @@ function renderWebModal(data, i, btn, parent, targetID) {
                 <div class="modal__video__container">
                     <video id="${
                       data[i].videoID
-                    }" poster="" controls class="w-100">
+                    }" poster="" controls class="w-100" playsinline>
                     <source src="${data[i].videoSource}" type="video/mp4" />
                     "Your browser cannot load the clip"
                     </video>
