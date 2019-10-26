@@ -6,6 +6,7 @@
     "targetID_desktop": "guideModal_desktop",
     "targetID_mobile": "guideModal_mobile",
     "videoID": "guide__video",
+    "coverVideo": "./images/web_guide_cover.jpg",
     "videoSource": "https://pensive-jepsen-0b0bd6.netlify.com/video/online_guide.mp4",
     "transcriptContainer": "modal__transcript__text_guide-js",
     "transcriptElements": [
@@ -232,6 +233,7 @@
     "targetID_desktop": "portfolioModal_desktop",
     "targetID_mobile": "portfolioModal_mobile",
     "videoID": "portfolio__video",
+    "coverVideo": "./images/web_portfolio_cover.jpg",
     "videoSource": "https://pensive-jepsen-0b0bd6.netlify.com/video/web_portfolio.mp4",
     "transcriptContainer": "modal__transcript__text_portfolio-js",
     "transcriptElements": [
