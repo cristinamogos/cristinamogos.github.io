@@ -10,26 +10,12 @@
   }
 }
 
-@-webkit-keyframes pointDown {
-  0% {
-    -webkit-transform: translate(0, -30px) rotate(90deg);
-  }
-  50% {
-    -webkit-transform: translate(0, -20px) rotate(90deg);
-  }
-  100% {
-    -webkit-transform: translate(0, -30px) rotate(90deg);
-  }
-}
-
 @keyframes animateLine {
   0% { width: 0; }
-  50% { width: 0; }
   100% { width: 100%; }
 }
 
 @-webkit-keyframes animateLine {
   0% { width: 0; }
-  50% { width: 0; }
   100% { width: 100%; }
 }
