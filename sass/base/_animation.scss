@@ -22,16 +22,12 @@
   }
 }
 
-@keyframes animate {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 100%;
-  }
+@keyframes animateLine {
+  0% { width: 0; }
+  100% { width: 100%; }
 }
 
-@-webkit-keyframes animate {
+@-webkit-keyframes animateLine {
     0% { width: 0; }
   100% { width: 100%; }
 }
