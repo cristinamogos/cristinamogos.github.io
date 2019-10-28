@@ -690,7 +690,7 @@ footer {
   .web .only__desktop {
     display: none; }
   .web__card-mobile .card-body {
-    height: 32rem; }
+    height: 35rem; }
   @media only screen and (min-width: 62em) {
     .web .only__desktop {
       display: flex; }
