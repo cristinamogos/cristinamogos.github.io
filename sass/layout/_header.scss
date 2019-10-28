@@ -15,14 +15,22 @@
     }
 
     &__text-row {
-      height: 77vh;
+      height: 75vh;
     }
+  }
 
-    &__more-icon {
-      transform: rotate(90deg);
-      animation: pointDown 1.6s ease infinite;
-      display: inline-block;
-      width: 108%;
+  &__more-box {
+    text-align: center;
+  }
+
+  &__more-icon {
+    animation: pointDown 1.6s ease infinite;
+    display: inline-block;
+    font-size: 1.5rem;
+
+    & i {
+      font-size: 3rem;
+      margin-top: 1rem;
     }
   }
 
@@ -33,13 +41,6 @@
 
     &__text-row {
       height: 77vh;
-    }
-
-    &__more-icon {
-      transform: rotate(90deg);
-      animation: pointDown 1.6s ease infinite;
-      display: inline-block;
-      width: 108%;
     }
   }
 }
