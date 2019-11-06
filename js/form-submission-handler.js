@@ -69,8 +69,8 @@
     var form = event.target;
     var data = getFormData(form); // get the values submitted in the form
 
-    /* OPTION: Remove this comment to enable SPAM prevention, see README.md
-    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
+    /* Comment to enable SPAM prevention
+    if (validateHuman(data.honeypot)) { 
       return false;
     }
     */
@@ -92,10 +92,6 @@
       xhr.onreadystatechange = function() {
         console.log(xhr.status, xhr.statusText);
         console.log(xhr.responseText);
-        // var formElements = form.querySelector(".contact__form");
-        // if (formElements) {
-        //   formElements.style.display = "none"; // hide form
-        // }
         var thankYouMessage = form.querySelector(".form__thankyou_message");
         if (thankYouMessage) {
           thankYouMessage.style.display = "block";
